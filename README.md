@@ -10,8 +10,6 @@
 - 📫 Como encontrarme ** nathaly.tau @ gmail.com **
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalytaucare&theme=radical)
-
 <p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=nathalytaucare&show_icons = true & locale = en "alt =" nathalytaucare "/> </p>
 
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=nathalytaucare&" alt = "nathalytaucare" /> </p>
