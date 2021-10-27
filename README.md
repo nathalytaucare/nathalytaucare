@@ -1,6 +1,5 @@
-<h1 align = "center"> Hola 👋, soy Nathaly </h1>
-<h3 align = "center"> Ingeniera electrónica y Front-end </h3>
-<h4  align = "center"> "Haz que las cosas pasen" </h4>
+<h1 align = "center"> Hola! 👋, soy Nathaly </h1>
+<h3 align = "center"> Front-end Developer</h3>
 
 - 🔭 Actualmente estoy trabajando en Laboratoria **REG003-fleet-management**
 
