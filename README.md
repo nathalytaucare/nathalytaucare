@@ -1,5 +1,6 @@
 <h1 align = "center"> Hola 👋, soy Nathaly </h1>
-<h3 align = "center"> Una desarrolladara de frontend apasionada </h3>
+<h3 align = "center"> Ingeniera electrónica y Front-end </h3>
+<h4  align = "center"> "Haz que las cosas pasen" </h4>
 
 - 🔭 Actualmente estoy trabajando en Laboratoria **REG003-fleet-management**
 
@@ -30,6 +31,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 
 
