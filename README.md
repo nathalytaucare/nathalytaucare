@@ -32,8 +32,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nathalytaucare&theme=dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathalytaucare&theme=radical)
-
 
