@@ -1,13 +1,13 @@
-<h1 align = "center"> Hola! 👋, soy Nathaly </h1>
-<h3 align = "center"> Front-end Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=392E01&size=26&lines=%C2%A1Hola!👋+Soy+Nathaly+👩💻)](https://git.io/typing-svg)
 
-- 🔭 Actualmente estoy trabajando en Laboratoria **REG003-fleet-management**
 
-- 🌱 Actualmente estoy aprendiendo **PostgreSQL, Nodejs**
-
-- 💬 Pregúntame algo **https://www.linkedin.com/in/nathaly-taucare-vega/**
-
-- 📫 Como encontrarme **nathaly.tau@gmail.com**
+- 👩‍💻 **Front End Developer** egresada del bootcamp de Laboratoria con conocimientos en Back End.
+- 👩‍🎓 Estudié la carrera de **Ingeniería civil electrónica**.
+- 🔭 Actualmente estoy trabajando con: **JavaScript, Node.js, Docker**.
+- 🌱 Actualmente estoy aprendiendo **PostgreSQL,Prisma**.
+- 🛠  Otras herramientas: GitHub, Figma, Trello.
+- 💬 LinkedIn: **https://www.linkedin.com/in/nathaly-taucare-vega/**.
+- 📫 Contactame: **nathaly.tau@gmail.com**.
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
