@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=392E01&size=26&lines=%C2%A1Hola!👋+Soy+Nathaly+👩💻)](https://git.io/typing-svg)
 
 ---
+<img align="right" alt="GIF" src="https://i.ibb.co/GpD4w00/programadora.gif" width="320">
 
 - 👩‍💻 **Front End Developer** egresada del bootcamp de Laboratoria con conocimientos en Back End.
 - 👩‍🎓 Estudié la carrera de **Ingeniería civil electrónica**.
