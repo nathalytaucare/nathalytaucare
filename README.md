@@ -1,5 +1,7 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=392E01&size=26&lines=%C2%A1Hola!👋+Soy+Nathaly+👩💻)](https://git.io/typing-svg)
 
+---
 
 - 👩‍💻 **Front End Developer** egresada del bootcamp de Laboratoria con conocimientos en Back End.
 - 👩‍🎓 Estudié la carrera de **Ingeniería civil electrónica**.
@@ -8,6 +10,10 @@
 - 🛠  Otras herramientas: GitHub, Figma, Trello.
 - 💬 LinkedIn: **https://www.linkedin.com/in/nathaly-taucare-vega/**.
 - 📫 Contactame: **nathaly.tau@gmail.com**.
+
+---
+
+### Tecnologías y herramientas
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
